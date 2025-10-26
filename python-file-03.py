@@ -255,7 +255,7 @@ def fact(n):
 print(fact(5)) 
 """
 #LET'S PRSCTICE...
-#Q. write a recursive function to cal sum of first n nstural no.s?
+#Q. write a recursive function to cal sum of first n natural no.s?
 """
 def cal_sum(n): 
     if(n == 0):
@@ -265,4 +265,5 @@ def cal_sum(n):
 sum = cal_sum(5)
 print(sum)
 """
+
 #Q. write a recursive fun to print all the elements in a list?
